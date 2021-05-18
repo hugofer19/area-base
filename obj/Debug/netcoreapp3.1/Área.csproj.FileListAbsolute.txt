@@ -1,0 +1,13 @@
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.exe
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.deps.json
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.runtimeconfig.json
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.runtimeconfig.dev.json
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.dll
+E:\PROGRAMA\C#\Área\bin\Debug\netcoreapp3.1\Área.pdb
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.csprojAssemblyReference.cache
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.AssemblyInfoInputs.cache
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.AssemblyInfo.cs
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.csproj.CoreCompileInputs.cache
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.dll
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.pdb
+E:\PROGRAMA\C#\Área\obj\Debug\netcoreapp3.1\Área.genruntimeconfig.cache
